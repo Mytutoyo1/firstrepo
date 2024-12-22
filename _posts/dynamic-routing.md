@@ -7,7 +7,7 @@ author:
   name: Joel Koller
   picture: "./assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "./assets/blog/dynamic-routing/cover.jpg"
 ---
 
 kurz und knapp:
