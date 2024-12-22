@@ -7,13 +7,13 @@ author:
   name: Joel Koller
   picture: "./assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "./assets/blog/dynamic-routing/cover.jpg"
 ---
 
 kurz und knapp:
 Ja! mein erster Blog! 
 Viele weitere kommen noch (hoffentlich :))
-![image](/assets/blog/dynamic-routing/cover.jpg)
+![image](./assets/blog/dynamic-routing/cover.jpg)
 
 
 ## Lorem Ipsum
